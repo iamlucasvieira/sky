@@ -2,6 +2,14 @@
 name = "sky"
 version = "0.1.0"
 edition = "2021"
+authors = ["Lucas Vieira dos Santos"]
+license-file = "LICENSE"
+description = "An Aerospace Toolbox for Rust"
+homepage = "https://github.com/iamlucasvieira/sky"
+repository = "https://github.com/iamlucasvieira/sky"
+readme = "README.md"
+keywords = ["aerospace", "toolbox", "math", "rust", "library"]
+categories = ["science", "math", "engineering"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
