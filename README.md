@@ -1,4 +1,6 @@
-# Sky ☁️
+# Sky ☁
+[![Unit Tests](https://github.com/iamlucasvieira/sky/actions/workflows/tests.yml/badge.svg)](https://github.com/iamlucasvieira/sky/actions/workflows/tests.yml)
+[![Linters](https://github.com/iamlucasvieira/sky/actions/workflows/linters.yml/badge.svg)](https://github.com/iamlucasvieira/sky/actions/workflows/linters.yml)
 [![GitHub License](https://img.shields.io/github/license/iamlucasvieira/sky)](LICENSE)
 [![Crates.io Version](https://img.shields.io/crates/v/sky)](https://crates.io/crates/sky)
 [![Crates.io Total Downloads](https://img.shields.io/crates/d/sky)](https://crates.io/crates/sky)
